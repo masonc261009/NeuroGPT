@@ -33,3 +33,7 @@ NeuroGPT includes a simple UI built with MudBlazor for a clean and responsive ex
  
   Only reads files from the folder you choose
   Does not modify files unless you add that feature
+
+  where to get the model from to use neurogpt:
+  <img width="1871" height="956" alt="image" src="https://github.com/user-attachments/assets/56b9105f-cbc0-46f6-b5ca-a66de17610f7" />
+
